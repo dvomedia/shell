@@ -1,0 +1,8 @@
+*.lock
+
+vendor/
+build/
+cache/
+
+.DS_Store
+web/xhprof
